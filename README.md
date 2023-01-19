@@ -2,7 +2,6 @@
 
 [Project X](https://github.com/XTLS) originates from XTLS protocol, provides a set of network tools such as [Xray-core](https://github.com/XTLS/Xray-core).
 
-
 ## License
 
 [Mozilla Public License Version 2.0](https://github.com/XTLS/Xray-core/blob/main/LICENSE)
